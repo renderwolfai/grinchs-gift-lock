@@ -1,0 +1,1086 @@
+{
+  "status": "ready",
+  "version": 1794285856467,
+  "images": {
+    "H1": {
+      "file": "assets/H1/c9863027-6715-4306-bc27-4d704eacde43-78f59e3c933f/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 53,
+          "width": 410,
+          "height": 406
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated faceted gold star with red jewel and holly",
+        "line": "H1: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated faceted gold star with red jewel and holly\"",
+        "reviewedAt": "2026-11-09T20:23:51.424Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/H1/8e96d53b-e8ec-44a6-872c-31920a0ff929_0.png",
+        "sourceSha256": "479a89c83578ca7470ca4ab361ab384a5c887d4ad92cbbb54778658f1bafe7c3",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "cf6975e8-891e-49ab-b393-2cf3d6e168ab",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/4c2d09be-7c4c-4f25-b9cf-9146efb118bd/cf6975e8-891e-49ab-b393-2cf3d6e168ab/comfy/0/image-1ece1567a052e059a19051b38fb65c29cdd44a0a0308f8fa267d6d2f7f15dd47.png"
+        }
+      }
+    },
+    "H2": {
+      "file": "assets/H2/aa824ab0-3da8-4f9a-b17e-806dc6e634b2-d7d8125636a9/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 108,
+          "y": 51,
+          "width": 296,
+          "height": 404
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated three-gift stack with glossy red green blue boxes",
+        "line": "H2: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated three-gift stack with glossy red green blue boxes\"",
+        "reviewedAt": "2026-11-09T20:23:51.891Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/H2/66598251-e329-470b-b8e6-68c50e4babbc_0.png",
+        "sourceSha256": "d77fdb40a6cacc8217b65da9e7aacea76add2bff062e61112963ad8f9b84ddfb",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "708c2ec7-b3f5-4a44-8cc9-a2adbb1345ea",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/33ad1b91-5774-49ee-9912-9bf66895a743/708c2ec7-b3f5-4a44-8cc9-a2adbb1345ea/comfy/0/image-b2bb2c6af12ab1fbd799f9d62610a1e6e873e0fe046f68deea2048ac8905768b.png"
+        }
+      }
+    },
+    "H3": {
+      "file": "assets/H3/c305bc42-cc04-4cdf-898e-65187ced24af-470dab3d90b1/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 61,
+          "width": 410,
+          "height": 389
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated red green turquoise bauble trio",
+        "line": "H3: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated red green turquoise bauble trio\"",
+        "reviewedAt": "2026-11-09T20:23:52.327Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/H3/e66b0b40-6c58-4ee4-9a13-06617a94e305_0.png",
+        "sourceSha256": "5dc6a103b80c24ecd1656a8537f0834e89b2e0be04abda5731189b14d7e9f4da",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "daaecbe2-fa69-4c9e-9e9d-deec1f2d6e19",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/717ff3f9-1709-431c-96dc-463e5ced775f/daaecbe2-fa69-4c9e-9e9d-deec1f2d6e19/comfy/0/image-f66e44a322c39a473d96fc5b6191693956069f1057eaf77d1dea5957a68d6401.png"
+        }
+      }
+    },
+    "H4": {
+      "file": "assets/H4/57f7737b-e88d-492a-9bd2-22ec2ea84ab3-0e14fafa9da1/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 51,
+          "y": 52,
+          "width": 409,
+          "height": 406
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated crossed candy canes and green bow",
+        "line": "H4: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated crossed candy canes and green bow\"",
+        "reviewedAt": "2026-11-09T20:23:52.880Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/H4/9c407dab-631c-4fbb-99a9-25ba54f1672e_0.png",
+        "sourceSha256": "2fa1879c09fe18a98384a2e1ca9a7c09d581e71447d5be5fcca7b5c8b87a49b2",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "e098dc8e-bd79-4516-8f70-db324cdb8a0f",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/8fe1ffb9-6835-4ee9-9b40-58d8e4e472c1/e098dc8e-bd79-4516-8f70-db324cdb8a0f/comfy/0/image-3128cdb4d93f9c4810f6e9660997f4c439b75aa058854c4cdf5802d78a47b59f.png"
+        }
+      }
+    },
+    "A": {
+      "file": "assets/A/a882cb5e-09ac-4f21-8f57-a7eda74a2646-3c0f8ffeaa49/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 90,
+          "y": 96,
+          "width": 333,
+          "height": 321
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "A",
+        "expectedText": "A",
+        "note": "single red A with gold edge and snow cap",
+        "line": "A: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"A\" note=\"single red A with gold edge and snow cap\"",
+        "reviewedAt": "2026-11-09T20:23:53.376Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/A/d60116da-7825-45ba-ad27-8940dd71ece5_0.png",
+        "sourceSha256": "c170477e724c1db21452e4dba338a3315fbfc9069241d65ba8970f142c81f2df",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "f1becb81-74c6-40f7-a607-d798307f50a5",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/6cf41011-34f4-4408-90c5-3930b49b4607/f1becb81-74c6-40f7-a607-d798307f50a5/comfy/0/image-96e787259bd10eb6989b46b9f7afe4b2ecb08d8797865047c58396ca5a2dee82.png"
+        }
+      }
+    },
+    "K": {
+      "file": "assets/K/4ed59b10-7b20-49dd-866a-ba6cd97334ec-4e9dc24fcdee/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 90,
+          "y": 90,
+          "width": 332,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "K",
+        "expectedText": "K",
+        "note": "single blue K with gold edge and snow cap",
+        "line": "K: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"K\" note=\"single blue K with gold edge and snow cap\"",
+        "reviewedAt": "2026-11-09T20:23:53.816Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/K/212240c5-a9c1-41df-845f-12ddc3da2ae5_0.png",
+        "sourceSha256": "1cdf5d02eb57b05347c3f73ce3f910801002e85670b1dc90fe610eb0b8cef1db",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "d4fa7e7b-2ffe-467d-be7e-d1dca449ecc1",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/8f2c0152-6d7e-466b-b515-7b0d2c571709/d4fa7e7b-2ffe-467d-be7e-d1dca449ecc1/comfy/0/image-6a95249b9e2e9f20243347cad7a10704e673e41a1e6ab7667a1567ac6c74de3e.png"
+        }
+      }
+    },
+    "Q": {
+      "file": "assets/Q/c2bf9812-edba-4301-9fae-2574c8588562-d0563f36fde1/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 114,
+          "y": 90,
+          "width": 284,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "Q",
+        "expectedText": "Q",
+        "note": "single magenta Q with gold edge and snow cap",
+        "line": "Q: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"Q\" note=\"single magenta Q with gold edge and snow cap\"",
+        "reviewedAt": "2026-11-09T20:23:54.320Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/Q/a921c96b-8572-41d7-8f26-3735dfa0ee28_0.png",
+        "sourceSha256": "bc10a15cf671a7adfacf1d9ad744a863a7f6fe7c8b928455ca2172ccaa38a2f3",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "5d121b8c-800e-4a06-9111-f585d8da4913",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/7e1da485-16d7-47c4-ade3-ca0ba811bf4b/5d121b8c-800e-4a06-9111-f585d8da4913/comfy/0/image-c5c2753eefcb31f095a25c02c640f43c35d1cf0b9359266c3651a7d58ae7c34a.png"
+        }
+      }
+    },
+    "J": {
+      "file": "assets/J/6f081988-a819-4cdf-8479-a00746a5c61d-ca4adf67ddbc/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 116,
+          "y": 90,
+          "width": 280,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "J",
+        "expectedText": "J",
+        "note": "single green J with gold edge and snow cap",
+        "line": "J: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"J\" note=\"single green J with gold edge and snow cap\"",
+        "reviewedAt": "2026-11-09T20:23:54.738Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/J/ce70b0f8-94c4-4226-8f82-9548fb5cde6b_0.png",
+        "sourceSha256": "bee62fda2b3e5567d16da1e137dd8bbee0c095d3281b9bf545772f259be0bc1e",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "841b85d3-0974-452f-babd-fd9dd1a43e6a",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/6b7b533e-81cd-40fa-9853-7922b9bfe5fa/841b85d3-0974-452f-babd-fd9dd1a43e6a/comfy/0/image-9ff2f3d5792cd8186d1d439e20fb11d204e5001edea8c928fd679f5a545d8bec.png"
+        }
+      }
+    },
+    "T": {
+      "file": "assets/T/449215e6-f57b-4d5c-869e-ebf41631f82f-0d7b9fde9491/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 100,
+          "y": 90,
+          "width": 313,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "T",
+        "expectedText": "T",
+        "note": "single orange T with gold edge and snow cap",
+        "line": "T: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"T\" note=\"single orange T with gold edge and snow cap\"",
+        "reviewedAt": "2026-11-09T20:23:55.145Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/T/896fe480-75b3-455b-8021-65e5f0318cad_0.png",
+        "sourceSha256": "db463db69f72a8469b7e697210c08adbea548d9ab0fbe321f3757ed7285b7fa7",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "82c5ebbb-9c47-4d53-91ad-4f4508ae7a7f",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/086e8ea5-28ec-4632-aaf2-4a673388aa1d/82c5ebbb-9c47-4d53-91ad-4f4508ae7a7f/comfy/0/image-507b528650364e2cadee2d1813b451066017a15e061908478e6c215c15429b8e.png"
+        }
+      }
+    },
+    "DV": {
+      "file": "assets/DV/1e747a0c-0dc6-4541-a169-229069d39d19-cdad6bca6505/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 53,
+          "y": 51,
+          "width": 406,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "isolationOverride": {
+        "reason": "Full-size inspection confirms a clean transparent upper-chest character portrait; detector rails are dense fur and Santa costume along the natural lower portrait crop, not a backing panel or frame.",
+        "acceptedAt": "2026-11-09T20:24:10.662Z",
+        "sourceSha256": "f255453ff2e1d78947e9c2b130e5c01c553717f69248b57168d6a0c4f6b3227f",
+        "measured": {
+          "profile": "pictorial",
+          "subjectType": "character",
+          "failed": [
+            "rails"
+          ],
+          "frameLike": true,
+          "panelLike": false,
+          "alphaCoverage": 0.7359,
+          "intersectionCoverage": 1,
+          "cornerCoverage": [
+            0,
+            0,
+            1,
+            0.3257
+          ],
+          "rails": {
+            "top": 0.723,
+            "bottom": 0.9583,
+            "left": 0.8762,
+            "right": 0.9289
+          },
+          "thresholds": {
+            "rail": 0.72,
+            "intersection": 0.35,
+            "separation": 0.5,
+            "cellFill": 0.85,
+            "cornerFill": 0.72,
+            "corner": 0.55,
+            "corners": 3
+          }
+        }
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated green Christmas thief portrait; detector rails are dense fur and costume at the lower crop, not a panel",
+        "line": "DV: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated green Christmas thief portrait; detector rails are dense fur and costume at the lower crop, not a panel\"",
+        "reviewedAt": "2026-11-09T20:24:10.596Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/DV/8effd3bf-8e71-4064-b83a-0a06987e8c44_0.png",
+        "sourceSha256": "3788814a52d36cb23a1db7c1e1d4edd6e1d48d506cd885332de25fa9670a310d",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "bff28acb-28eb-459c-8415-3b33cbd36770",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/350f9a5e-9c91-4236-95ef-fe6e78009694/bff28acb-28eb-459c-8415-3b33cbd36770/comfy/0/image-2f8e5fb25748e75edd0c77bc0d6a79f2f7661fbd58ecaaf641aba9a1c19fc099.png"
+        }
+      }
+    },
+    "PG": {
+      "file": "assets/PG/3ce7ad6d-6936-499c-90a4-383cb961e8eb-f33cb3505588/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 84,
+          "y": 51,
+          "width": 344,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated trotting baby reindeer",
+        "line": "PG: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated trotting baby reindeer\"",
+        "reviewedAt": "2026-11-09T20:23:57.013Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/PG/75473e11-d25f-4f9d-8eee-428419362aec_0.png",
+        "sourceSha256": "fcdfe538d50405acbe10ec05e23fe26a064a54c37c5b07b648a85279e441660d",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "a7c9119c-7c14-43c2-a295-5442bb56a4fd",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/72406edd-95a5-456a-a7c2-e619a0ffe68b/a7c9119c-7c14-43c2-a295-5442bb56a4fd/comfy/0/image-9aa9651e016e00fed833087d28c02c537da03f1021c40af9e38be2866fe35017.png"
+        }
+      }
+    },
+    "CELL_BG": {
+      "file": "assets/CELL_BG/7b5a9b70-81ee-476c-8437-6e658a591027-b4efa69cb1e5/image.png",
+      "kind": "cell",
+      "assetKind": "cell",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 0,
+          "y": 0,
+          "width": 512,
+          "height": 512
+        },
+        "fit": "contain"
+      },
+      "text": "CELL_BG",
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "n/a",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "edge-to-edge low-contrast green blue frosted surface with empty centre",
+        "line": "CELL_BG: subject=pass glyph=n/a spelling=n/a backing=n/a frame=n/a bakedText=pass note=\"edge-to-edge low-contrast green blue frosted surface with empty centre\"",
+        "reviewedAt": "2026-11-09T20:23:57.442Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/CELL_BG/7a091305-b51e-47d5-9621-608ba698be8d_0.png",
+        "sourceSha256": "7127df6a11dbf4875ccb96de61f3223b2be7ea96faa6543ae68ba4b4d1674b21"
+      }
+    },
+    "TITLE": {
+      "file": "assets/TITLE/bf093298-9195-43d7-8264-f58bf4672077-f607681feade/image.png",
+      "kind": "overlay",
+      "assetKind": "title",
+      "w": 1600,
+      "h": 896,
+      "placement": {
+        "canvas": {
+          "width": 1600,
+          "height": 896
+        },
+        "ink": {
+          "x": 21,
+          "y": 63,
+          "width": 1550,
+          "height": 765
+        },
+        "fit": "contain"
+      },
+      "text": "GRINCH'S GIFT LOCK",
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "GRINCH'S GIFT LOCK",
+        "expectedText": "GRINCH'S GIFT LOCK",
+        "note": "exact isolated two-line title with apostrophe and lock-shaped O",
+        "line": "TITLE: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"GRINCH'S GIFT LOCK\" note=\"exact isolated two-line title with apostrophe and lock-shaped O\"",
+        "reviewedAt": "2026-11-09T20:23:58.410Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/TITLE/6367b140-84dd-4d17-8bc7-76ad30a09141_0.png",
+        "sourceSha256": "700c1dcd07a6408f96f4f6353d3f965a9bb3f0f3b2579e292bfba95fb11b8506"
+      }
+    },
+    "BG": {
+      "file": "assets/BG/1c177c24-abd2-4666-a8d0-05ff77df8f21-e5f241ce652f/image.png",
+      "kind": "background",
+      "assetKind": "background",
+      "w": 900,
+      "h": 1600,
+      "placement": {
+        "canvas": {
+          "width": 900,
+          "height": 1600
+        },
+        "ink": {
+          "x": 0,
+          "y": 0,
+          "width": 900,
+          "height": 1600
+        },
+        "fit": "contain"
+      },
+      "modes": [
+        "base",
+        "mini-pigs",
+        "free"
+      ],
+      "orientation": "portrait",
+      "text": "BG",
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "n/a",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "none",
+        "expectedText": "none",
+        "note": "portrait snowy Christmas village with open centre and no lettering",
+        "line": "BG: subject=pass glyph=n/a spelling=n/a backing=n/a frame=n/a bakedText=pass reads=none note=\"portrait snowy Christmas village with open centre and no lettering\"",
+        "reviewedAt": "2026-11-09T20:23:59.392Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/BG/e0070a52-dd82-4d5c-8594-ece08822cb46_0.png",
+        "sourceSha256": "df1985211868a0a1f937d5ba5a6da90f56e7eafb1b9d4902b8b49b6689ed478c"
+      }
+    },
+    "PIG_METER": {
+      "file": "assets/PIG_METER/2c741434-f4c6-423c-ac7e-75ce1b847ff8-f004e69160cd/image.png",
+      "kind": "overlay",
+      "assetKind": "overlay",
+      "w": 1024,
+      "h": 768,
+      "placement": {
+        "canvas": {
+          "width": 1024,
+          "height": 768
+        },
+        "ink": {
+          "x": 97,
+          "y": 4,
+          "width": 817,
+          "height": 755
+        },
+        "fit": "contain"
+      },
+      "text": "PIG_METER",
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated red gift sack with presents candy cane and bells",
+        "line": "PIG_METER: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated red gift sack with presents candy cane and bells\"",
+        "reviewedAt": "2026-11-09T20:24:01.059Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/PIG_METER/639f1026-3212-4b14-88ed-569dc2630716_0.png",
+        "sourceSha256": "2fce404eab9f93821d377b412643c08ee454dc836c04392edda92b8914122eaf",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "92268059-f458-4fb0-a6b5-4af0643b68f4",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/063c1f96-397e-4806-a66d-a130190767e2/92268059-f458-4fb0-a6b5-4af0643b68f4/comfy/0/image-506f425c267308ff8cb6526ba8015ebb710d52f1035c2633d3e39636a67a3df0.png"
+        }
+      }
+    },
+    "CN": {
+      "file": "assets/CN/f4d977a5-9fd0-4faa-b2fd-d88be34a441d-5176430289ad/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 84,
+          "y": 51,
+          "width": 343,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "complete isolated gold snowflake bauble",
+        "line": "CN: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"complete isolated gold snowflake bauble\"",
+        "reviewedAt": "2026-11-09T20:23:56.034Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/CN/aac1ed07-d32c-4ab8-af5d-a55977640700_0.png",
+        "sourceSha256": "73088d6a006c97201970d0eb5de7adb5966d934df48625f23569624454eb6afb",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "3be05565-5c50-4af1-abbc-205b19654b2a",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/fe0ef898-d2be-45d0-96e7-f06138946459/3be05565-5c50-4af1-abbc-205b19654b2a/comfy/0/image-d35599807eaad52f0eb2448a1850fb84d3d02f4b975eeb0b56b61f79d0cd22ef.png"
+        }
+      }
+    },
+    "JP": {
+      "file": "assets/JP/1e079869-5fcb-4deb-8b00-3f276ad67f47-875a4ff25e55/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 93,
+          "y": 51,
+          "width": 326,
+          "height": 410
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 51,
+          "y": 51,
+          "width": 410,
+          "height": 410
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "pass",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "note": "repaired complete isolated red gold gift bauble with visible top loop and clear margin",
+        "line": "JP: subject=pass glyph=n/a spelling=n/a backing=pass frame=n/a bakedText=pass note=\"repaired complete isolated red gold gift bauble with visible top loop and clear margin\"",
+        "reviewedAt": "2026-11-09T20:23:56.552Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/JP/778086e2-8ac3-4d80-b8ef-561d5d488176_0.png",
+        "sourceSha256": "23365a6847298d6cb871d210e5849c5916d1a99198df34f2e509fe15bdecd7fb",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "5e8d191d-a224-471e-ad6f-09bf64d455d8",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/4adcfc7a-6c7c-40bf-8552-ef4be2b83e69/5e8d191d-a224-471e-ad6f-09bf64d455d8/comfy/0/image-0b70d489721f92aa2fb9294a89679adb1b536374898f3ad287430074022780cc.png"
+        }
+      }
+    },
+    "NINE": {
+      "file": "assets/NINE/728cbfe2-3b7d-41c4-b5e3-d9f3c1eb59db-6875ed6e3b6c/image.png",
+      "kind": "symbol",
+      "assetKind": "symbol",
+      "w": 512,
+      "h": 512,
+      "placement": {
+        "canvas": {
+          "width": 512,
+          "height": 512
+        },
+        "ink": {
+          "x": 126,
+          "y": 90,
+          "width": 259,
+          "height": 333
+        },
+        "fit": "contain"
+      },
+      "symbol": {},
+      "composition": {
+        "subjectBox": {
+          "x": 90,
+          "y": 90,
+          "width": 333,
+          "height": 333
+        },
+        "layerOrder": [
+          "subject",
+          "frame"
+        ]
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "pass",
+          "spelling": "pass",
+          "backing": "pass",
+          "frame": "n/a",
+          "bakedText": "pass"
+        },
+        "reads": "9",
+        "expectedText": "9",
+        "note": "single turquoise 9 with gold edge and snow cap",
+        "line": "NINE: subject=n/a glyph=pass spelling=pass backing=pass frame=n/a bakedText=pass reads=\"9\" note=\"single turquoise 9 with gold edge and snow cap\"",
+        "reviewedAt": "2026-11-09T20:23:55.610Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/NINE/7e1872cf-b327-448e-821a-dac5a7d08f87_0.png",
+        "sourceSha256": "ef32b8a6c14e456a0f24d211c77e5d031c640b930ab42504009bee98a91e6cd9",
+        "cutout": {
+          "solution": "bg-remover",
+          "jobId": "19aaeb5f-bfd5-4094-8236-7910f71930c8",
+          "imageId": "v2/img/usr/generated/84380448-a041-704f-cba1-2c8607f65c77/7e2b0828-8e2e-44f2-bb9e-4042206c96ba/19aaeb5f-bfd5-4094-8236-7910f71930c8/comfy/0/image-91aaf2c9cfcc313e04695df7e03230a7e4f5aab3f29a115eb2506b4b1e961344.png"
+        }
+      }
+    },
+    "REEL_FRAME": {
+      "file": "assets/REEL_FRAME/1990dca8-c67c-4428-80d1-d86904adb8f1-56efc7537c00/image.png",
+      "kind": "overlay",
+      "assetKind": "reel-frame",
+      "w": 1024,
+      "h": 679,
+      "placement": {
+        "canvas": {
+          "width": 1024,
+          "height": 679
+        },
+        "ink": {
+          "x": 15,
+          "y": 0,
+          "width": 998,
+          "height": 658
+        },
+        "opening": {
+          "x": 137,
+          "y": 131,
+          "width": 753,
+          "height": 425
+        },
+        "fit": "contain"
+      },
+      "geometry": {
+        "width": 1024,
+        "height": 679,
+        "opening": {
+          "x": 137,
+          "y": 131,
+          "width": 753,
+          "height": 425
+        },
+        "outer": {
+          "x": 15,
+          "y": 0,
+          "width": 998,
+          "height": 658
+        }
+      },
+      "review": {
+        "checks": {
+          "subject": "n/a",
+          "glyph": "n/a",
+          "spelling": "n/a",
+          "backing": "n/a",
+          "frame": "pass",
+          "bakedText": "pass"
+        },
+        "note": "fully painted Christmas village candy-cane rail with empty snapped opening",
+        "line": "REEL_FRAME: subject=n/a glyph=n/a spelling=n/a backing=n/a frame=pass bakedText=pass note=\"fully painted Christmas village candy-cane rail with empty snapped opening\"",
+        "reviewedAt": "2026-11-09T20:23:57.866Z"
+      },
+      "provenance": {
+        "method": "authored",
+        "source": "art-src/direct-grinch-style/REEL_FRAME/f8b123eb-c390-4f81-b891-434f3b867a0e_0.png",
+        "sourceSha256": "58050a3ca397eebaf96ccc9f81e92821b467764f22c6c447a493aa88f2eca3c3"
+      }
+    },
+    "PIG_METER_FILL": {
+      "file": "PIG_METER_FILL-1794285853081-5787.png",
+      "kind": "anim",
+      "of": "PIG_METER",
+      "state": "fill",
+      "recipe": "loop",
+      "w": 512,
+      "h": 384,
+      "cols": 4,
+      "rows": 4,
+      "frames": 16,
+      "fps": 12,
+      "loop": false,
+      "pingpong": false,
+      "fadeIn": 0
+    }
+  }
+}

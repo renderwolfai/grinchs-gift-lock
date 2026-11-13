@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Grinch&#39;s Gift Lock</title>
+<link rel="icon" href="data:,">
+<style>
+  @font-face { font-family: "Space Grotesk"; src: url("kit/fonts/space-grotesk.woff2") format("woff2"); font-style: normal; font-weight: 300 700; font-display: swap; }
+  :root { --accent: #c11e9f; --accent-dim: #59356f; --ink: #09040f; --panel: #171026; --text: #f8edf8; --ui-font: "Space Grotesk", ui-sans-serif, sans-serif; }
+  html, body { margin: 0; height: 100%; background: var(--ink); overflow: hidden; }
+  body { display: flex; align-items: center; justify-content: center; font-family: var(--ui-font); color: var(--accent); }
+  button { font-family: var(--ui-font); }
+  #stage { position: relative; }
+  #stage canvas { display: block; }
+  #loading { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 12px; background: var(--ink); font-size: 28px; letter-spacing: 4px; z-index: 5; }
+  #loading small { font-size: 14px; letter-spacing: 2px; color: var(--accent-dim); }
+  #paytable { position: absolute; inset: 0; display: none; background: rgba(8, 9, 20, 0.94); z-index: 4; overflow: auto; }
+  #paytable.open { display: block; }
+  #paytable .inner { max-width: 920px; margin: 0 auto; padding: 28px 24px 40px; }
+  #paytable h1 { font-weight: 700; text-align: center; letter-spacing: 2px; margin: 0 0 4px; font-size: 30px; }
+  #paytable h2 { font-weight: 700; letter-spacing: 1px; font-size: 18px; border-bottom: 1px solid var(--accent-dim); padding-bottom: 8px; margin-top: 26px; }
+  #paytable p { color: var(--text); line-height: 1.5; font-size: 15px; margin: 8px 0; }
+  #paytable .muted { color: var(--accent-dim); }
+  #paytable .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+  #paytable .sym { background: var(--panel); border: 1px solid rgba(184, 146, 208, 0.28); border-radius: 8px; padding: 8px; text-align: center; font-size: 13px; color: var(--text); }
+  #paytable .sym img { width: 96px; height: 96px; object-fit: contain; }
+  #paytable .close { position: sticky; top: 0; float: right; background: var(--accent); color: white; border: 1px solid var(--accent); font-size: 13px; font-weight: 700; letter-spacing: .6px; padding: 9px 14px; cursor: pointer; border-radius: 10px; }
+</style>
+</head>
+<body>
+<div id="stage"><div id="paytable"><div class="inner"></div></div></div>
+<div id="loading">GRINCH&#39;S GIFT LOCK<small>connecting to the math engine…</small></div>
+<script src="static-api.js"></script>
+<script src="vendor/pixi.min.js"></script>
+<script type="module" src="game.js"></script>
+</body>
+</html>
