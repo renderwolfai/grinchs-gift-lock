@@ -29,19 +29,34 @@
     return order[used++];
   };
 
-  async function spin({ bet }) {
+  // ?debug selector: each option replays its pool of pre-found matching rounds in shuffled order.
+  const demoPools = new Map();
+  async function demoRound(file) {
+    let pool = demoPools.get(file);
+    if (!pool) demoPools.set(file, pool = { rounds: await realFetch(new URL(file, roundsUrl)).then((r) => r.json()), order: [] });
+    if (!pool.order.length) pool.order = [...pool.rounds.keys()].sort(() => Math.random() - 0.5);
+    return pool.rounds[pool.order.pop()];
+  }
+
+  async function nextRound(idx, bet) {
+    let cur = cursors.get(bet);
+    if (!cur || cur.i >= idx.roundsPerChain) cursors.set(bet, cur = { chain: nextChain(idx.chains), i: 0 });
+    const k = Math.floor(cur.i / idx.chunkSize);
+    const round = (await loadChunk(cur.chain, k))[cur.i % idx.chunkSize];
+    cur.i++;
+    if (cur.i % idx.chunkSize === Math.floor(idx.chunkSize / 2) && (k + 1) * idx.chunkSize < idx.roundsPerChain) loadChunk(cur.chain, k + 1);
+    return round;
+  }
+
+  async function spin({ bet, debug }) {
     const idx = await index;
     if (!idx.config.bets.includes(bet)) return reply(400, { error: "invalid bet" });
+    if (debug !== undefined && !idx.demos?.[debug]) return reply(400, { error: "unknown demo scenario" });
     if (spinning) return reply(409, { error: "a spin is in progress" });
     if (balance < bet) return reply(402, { error: "insufficient balance" });
     spinning = true;
     try {
-      let cur = cursors.get(bet);
-      if (!cur || cur.i >= idx.roundsPerChain) cursors.set(bet, cur = { chain: nextChain(idx.chains), i: 0 });
-      const k = Math.floor(cur.i / idx.chunkSize);
-      const round = (await loadChunk(cur.chain, k))[cur.i % idx.chunkSize];
-      cur.i++;
-      if (cur.i % idx.chunkSize === Math.floor(idx.chunkSize / 2) && (k + 1) * idx.chunkSize < idx.roundsPerChain) loadChunk(cur.chain, k + 1);
+      const round = debug !== undefined ? await demoRound(idx.demos[debug]) : await nextRound(idx, bet);
       const win = creditsFor(round.totalWin, bet);
       balance += win - bet;
       return reply(200, { rounds: round.rounds, totalWin: win, totalWinX: round.totalWin, balance, pendingChoice: null });
